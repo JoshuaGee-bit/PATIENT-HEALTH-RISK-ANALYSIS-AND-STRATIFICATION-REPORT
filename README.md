@@ -37,7 +37,7 @@ Microsoft Excel
 
 ## Answer to Questions
 ## 1.	Clean and merge datasets
-I copied the patients and vitals dataset from the link provided (https://docs.google.com/document/d/1WRah5zfdE4vy5bz3XOFIBx_0YjWxtL_BYkmxKOBxSmo/edit?usp=sharing) and pasted it on Microsoft Excel worksheet, after which I saved the documents. Then I opened my Microsoft Power BI to get the patients and vitals datasets I saved from Ms. Excel, it loaded to the power query where I was able to clean, transform and merge both datasets.
+I copied the patients and vitals dataset from the link provided 112https://docs.google.com/document/d/1WRah5zfdE4vy5bz3XOFIBx_0YjWxtL_BYkmxKOBxSmo/edit?usp=sharing and pasted it on Microsoft Excel worksheet, after which I saved the documents. Then I opened my Microsoft Power BI to get the patients and vitals datasets I saved from Ms. Excel, it loaded to the power query where I was able to clean, transform and merge both datasets.
 
 ## Datasets
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patients%20Dataset.jpg)
@@ -46,5 +46,28 @@ I copied the patients and vitals dataset from the link provided (https://docs.go
 ## Merged Dataset
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Merged%20Dataset.jpg)
 
-## 
+## 2.	Patient Health Risk Threshold
+According to the American Heart Association,  
+Blood Pressure
+•	Normal: <120/ <80 mmhg
+•	Elevated: 120–139 / 80–89 mmhg
+•	High Risk: ≥140 / ≥90 mmhg
+Glucose Level
+•	Normal: <100 mg/dl
+•	Prediabetes: 100–125 mg/dl
+•	High Risk: ≥126 mg/dl
+Heart Rate
+•	Normal: 60–100 bpm
+•	High Risk: >100 or <60 bpm
+
+Patient is at high health risk if patient has chronic condition and abnormal vitals i.e BP greater or equal to 140/90mmhg or glucose level greater than or equal to 126mg/dl.
+Patient is at medium health risk if patient has slightly abnormal vitals (prehypertension or prediabetes).
+Patient is at low health risk if all vitals are normal and no chronic conditions. 
+
+## 3.	Risk Classification Table
+To get the patient’s risk classification table, I had to create a column for risk level and to do this I clicked on my merged dataset (PatientHealthRisk), I used the formula below to get the risk levels. 
+Then I clicked on table pane from the visual gallery on the home page. The I inserted the patient ID, Age, Gender, Chronic condition, Systolic BP, Diastolic BP, Heart Rate, Glucose Level and Risk Level into the columns. 
+
+![image alt]()
+
 
