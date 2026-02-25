@@ -8,4 +8,4 @@ Microsoft Power BI
 Microsoft Excel
 
 ## Dataset
-![image alt]![Dashboard Preview](Patient Health Risk Analysis Dashboard.png)
+![image alt]!(Patient Health Risk Analysis Dashboard.png)
