@@ -14,8 +14,9 @@ This report outlines the steps taken to identify patients who at high health ris
 - [Recommendations](summary-and-recommendations)
 
 ## Tools Used
-Microsoft Power BI
-Microsoft Excel
+- Microsoft Power BI
+  
+- Microsoft Excel
 
 ## Tasks
 1.	Clean and merge datasets
@@ -79,10 +80,13 @@ I created a dashboard containing Total number of patients, high, medium and low 
 ## Answer to Questions
 **Which patients have abnormal vitals?** 
 Ans: From the table it can be deduced that patients with patients ID P001, P002, P004, P005, P007 have abnormal vitals.
+
 **Which age groups show higher health risks?**
 Ans: From the column charts, patient with age groups 40 years and above show significantly higher health risks as compared to patients below 40 years. 
+
 **What chronic conditions are most associated with high-risk vitals?**
 Ans: From the pie chart above Hypertension, Diabetes and Heart disease are associated with high-risk vitals.
+
 **How many patients fall into each risk category?**
 Risk Level	Count
 High Risk	   5
@@ -90,16 +94,17 @@ Medium Risk  0
 Low Risk	   2
 
 ## Recommendations
+
 **For High Health Risk patients**
--- I’d advise Remote health to check their blood pressure and glucose level regularly preferably on a weekly basis.
--- Pharmacists working at remote health should review their medications and check for any medication related problem.
--- They should be advised on lifestyle modification such as exercise, DASH diet (Dietary Approach to Stop Hypertension), reduction in salt intake, alcohol avoidance, stress reduction.
--- Alerts should be sent to the health care team when vitals exceed thresholds.
+- I’d advise Remote health to check their blood pressure and glucose level regularly preferably on a weekly basis.
+-  Pharmacists working at remote health should review their medications and check for any medication related problem.
+-  They should be advised on lifestyle modification such as exercise, DASH diet (Dietary Approach to Stop Hypertension), reduction in salt intake, alcohol avoidance, stress reduction.
+-  Alerts should be sent to the health care team when vitals exceed thresholds.
 
 **Low Health Risk Patients**
--- Adopt life style modification early
--- They should be educated on their health, the risk factors that can cause the chronic conditions.
--- They should be encouraged on quarterly checkups of their blood pressure and glucose levels.
+- Adopt life style modification early
+- They should be educated on their health, the risk factors that can cause the chronic conditions.
+- They should be encouraged on quarterly checkups of their blood pressure and glucose levels.
 
 
 
