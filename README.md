@@ -8,4 +8,4 @@ Microsoft Power BI
 Microsoft Excel
 
 ## Dataset
-![image alt]!(https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patients%20Dataset.jpg)
+![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patients%20Dataset.jpg)
