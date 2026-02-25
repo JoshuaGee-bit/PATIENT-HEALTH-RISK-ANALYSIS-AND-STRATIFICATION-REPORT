@@ -29,8 +29,11 @@ This report outlines the steps taken to identify patients who at high health ris
 
 ## Deliverables 
 ●	Cleaned dataset
+
 ●	Risk classification table
+
 ●	Dashboard or charts
+
 ●	2–3 pages analytical report
 
 ## 1.	Clean and merge datasets
