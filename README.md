@@ -2,6 +2,7 @@
 
 ## Project Overview
 This report outlines the steps taken to identify patients who at high health risk based on their vitals and medical history in order to prioritize health care, reduce emergencies and improve patient outcomes.
+![image alt]
 
 ## Tools Used
 Microsoft Power BI
@@ -12,5 +13,5 @@ Microsoft Excel
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Vitals%20Dataset.jpg)
 
 ## Merged Dataset
-![image alt]
+![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Merged%20Dataset.jpg)
 
