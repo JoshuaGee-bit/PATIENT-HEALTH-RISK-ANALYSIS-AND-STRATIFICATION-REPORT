@@ -73,6 +73,6 @@ Then I clicked on table pane from the visual gallery on the home page. The I ins
 ## 4.	To create visual summaries.
 I created a dashboard containing Total number of patients, high, medium and low risk patients, a chart showing risk levels by age group, pie chart showing risk level by chronic conditions, slicers containing chronic conditions, gender, location and risk level. The formulas I used is as seen below. 
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patient%20Health%20Risk%20Analysis%20Dashboard.jpg)
+![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/High%20Risk%20Patients.jpg)
 ![image alt]
-
 
