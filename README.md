@@ -10,9 +10,6 @@ This report outlines the steps taken to identify patients who at high health ris
 - [Deliverables](#deliverables)
 - [Datasets](#datasets)
 - [Answer to Questions](#answer-to-questions)
-- [Data Processing](#data-processing)
-- [Data Modeling](#data-modeling)
-- [Key Insights](#key-insights)
 - [Recommendations](summary-and-recommendations)
 
 ## Tools Used
@@ -75,4 +72,7 @@ I created a dashboard containing Total number of patients, high, medium and low 
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patient%20Health%20Risk%20Analysis%20Dashboard.jpg)
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/High%20Risk%20Patients.jpg)
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Low%20Risk%20Patients.jpg)
+![image alt]
+![image alt]
+![image alt]
 
