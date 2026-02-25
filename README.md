@@ -9,4 +9,8 @@ Microsoft Excel
 
 ## Datasets
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patients%20Dataset.jpg)
+![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Vitals%20Dataset.jpg)
+
+## Merged Dataset
 ![image alt]
+
