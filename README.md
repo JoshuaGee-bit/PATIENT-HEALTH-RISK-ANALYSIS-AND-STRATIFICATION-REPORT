@@ -9,6 +9,7 @@ This report outlines the steps taken to identify patients who at high health ris
 - [Tasks](#tasks)
 - [Deliverables](#deliverables)
 - [Datasets](#datasets)
+- [Methodology](#Methodology)
 - [Answer to Questions](#answer-to-questions)
 - [Recommendations](summary-and-recommendations)
 
@@ -31,7 +32,6 @@ Microsoft Excel
 ●	Dashboard or charts
 ●	2–3 pages analytical report
 
-## Answer to Questions
 ## 1.	Clean and merge datasets
 I copied the patients and vitals dataset from the link provided https://docs.google.com/document/d/1WRah5zfdE4vy5bz3XOFIBx_0YjWxtL_BYkmxKOBxSmo/edit?usp=sharing and pasted it on Microsoft Excel worksheet, after which I saved the documents. Then I opened my Microsoft Power BI to get the patients and vitals datasets I saved from Ms. Excel, it loaded to the power query where I was able to clean, transform and merge both datasets.
 
@@ -72,7 +72,33 @@ I created a dashboard containing Total number of patients, high, medium and low 
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patient%20Health%20Risk%20Analysis%20Dashboard.jpg)
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/High%20Risk%20Patients.jpg)
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Low%20Risk%20Patients.jpg)
-![image alt]
-![image alt]
-![image alt]
+
+## Answer to Questions
+●	Which patients have abnormal vitals?
+Ans: From the table it can be deduced that patients with patients ID P001, P002, P004, P005, P007 have abnormal vitals.
+●	Which age groups show higher health risks?
+Ans: From the column charts, patient with age groups 40 years and above show significantly higher health risks as compared to patients below 40 years. 
+●	What chronic conditions are most associated with high-risk vitals?
+Ans: From the pie chart above Hypertension, Diabetes and Heart disease are associated with high-risk vitals.
+●	How many patients fall into each risk category?
+Risk Level	Count
+High Risk	   5
+Medium Risk  0
+Low Risk	   2
+
+## Recommendations
+**For High Health Risk patients**
+	I’d advise Remote health to check their blood pressure and glucose level regularly preferably on a weekly basis.
+	Pharmacists working at remote health should review their medications and check for any medication related problem.
+	They should be advised on lifestyle modification such as exercise, DASH diet (Dietary Approach to Stop Hypertension), reduction in salt intake, alcohol avoidance, stress reduction.
+	Alerts should be sent to the health care team when vitals exceed thresholds.
+
+**Low Health Risk Patients**
+	Adopt life style modification early
+	They should be educated on their health, the risk factors that can cause the chronic conditions.
+	They should be encouraged on quarterly checkups of their blood pressure and glucose levels.
+
+
+
+
 
