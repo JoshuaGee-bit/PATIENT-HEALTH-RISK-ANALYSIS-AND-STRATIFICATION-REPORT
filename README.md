@@ -2,7 +2,6 @@
 
 ## Project Overview
 This report outlines the steps taken to identify patients who at high health risk based on their vitals and medical history in order to prioritize health care, reduce emergencies and improve patient outcomes.
-![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patient%20Health%20Risk%20Analysis%20Dashboard.jpg)
 
 ## Table of Content
 - [Project Overview](#project-overview)
@@ -68,8 +67,12 @@ Patient is at low health risk if all vitals are normal and no chronic conditions
 To get the patient’s risk classification table, I had to create a column for risk level and to do this I clicked on my merged dataset (PatientHealthRisk), I used the formula below to get the risk levels. 
 Then I clicked on table pane from the visual gallery on the home page. The I inserted the patient ID, Age, Gender, Chronic condition, Systolic BP, Diastolic BP, Heart Rate, Glucose Level and Risk Level into the columns. 
 
-![image alt]()
+![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Risk%20Level.jpg)
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patient's%20Risk%20Classification%20Table.jpg)
 
-## 4. 
+## 4.	To create visual summaries.
+I created a dashboard containing Total number of patients, high, medium and low risk patients, a chart showing risk levels by age group, pie chart showing risk level by chronic conditions, slicers containing chronic conditions, gender, location and risk level. The formulas I used is as seen below. 
+![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patient%20Health%20Risk%20Analysis%20Dashboard.jpg)
+![image alt]
+
 
