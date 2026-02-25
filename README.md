@@ -37,7 +37,7 @@ Microsoft Excel
 
 ## Answer to Questions
 ## 1.	Clean and merge datasets
-I copied the patients and vitals dataset from the link provided 112https://docs.google.com/document/d/1WRah5zfdE4vy5bz3XOFIBx_0YjWxtL_BYkmxKOBxSmo/edit?usp=sharing and pasted it on Microsoft Excel worksheet, after which I saved the documents. Then I opened my Microsoft Power BI to get the patients and vitals datasets I saved from Ms. Excel, it loaded to the power query where I was able to clean, transform and merge both datasets.
+I copied the patients and vitals dataset from the link provided https://docs.google.com/document/d/1WRah5zfdE4vy5bz3XOFIBx_0YjWxtL_BYkmxKOBxSmo/edit?usp=sharing and pasted it on Microsoft Excel worksheet, after which I saved the documents. Then I opened my Microsoft Power BI to get the patients and vitals datasets I saved from Ms. Excel, it loaded to the power query where I was able to clean, transform and merge both datasets.
 
 ## Datasets
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patients%20Dataset.jpg)
@@ -68,6 +68,8 @@ Patient is at low health risk if all vitals are normal and no chronic conditions
 To get the patient’s risk classification table, I had to create a column for risk level and to do this I clicked on my merged dataset (PatientHealthRisk), I used the formula below to get the risk levels. 
 Then I clicked on table pane from the visual gallery on the home page. The I inserted the patient ID, Age, Gender, Chronic condition, Systolic BP, Diastolic BP, Heart Rate, Glucose Level and Risk Level into the columns. 
 
-![image alt]()
+![image alt]
+![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patient's%20Risk%20Classification%20Table.jpg)
 
+## 4. 
 
