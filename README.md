@@ -68,7 +68,7 @@ Patient is at low health risk if all vitals are normal and no chronic conditions
 To get the patient’s risk classification table, I had to create a column for risk level and to do this I clicked on my merged dataset (PatientHealthRisk), I used the formula below to get the risk levels. 
 Then I clicked on table pane from the visual gallery on the home page. The I inserted the patient ID, Age, Gender, Chronic condition, Systolic BP, Diastolic BP, Heart Rate, Glucose Level and Risk Level into the columns. 
 
-![image alt]
+![image alt]()
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patient's%20Risk%20Classification%20Table.jpg)
 
 ## 4. 
