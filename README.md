@@ -44,14 +44,17 @@ I copied the patients and vitals dataset from the link provided https://docs.goo
 
 ## 2.	Patient Health Risk Threshold
 According to the American Heart Association,  
+
 **Blood Pressure**
 -	Normal: <120/ <80 mmhg
 -	Elevated: 120–139 / 80–89 mmhg
 -	High Risk: ≥140 / ≥90 mmhg
+  
 **Glucose Level**
 -	Normal: <100 mg/dl
 -	Prediabetes: 100–125 mg/dl
 -	High Risk: ≥126 mg/dl
+  
 **Heart Rate**
 -	Normal: 60–100 bpm
 -	High Risk: >100 or <60 bpm
